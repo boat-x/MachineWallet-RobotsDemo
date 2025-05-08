@@ -5,8 +5,8 @@
 .scannerwork/
 .vscode/
 boatconfig.h
-.o
-.obj
-.a
-.key
+*.o
+*.obj
+*.a
+*.key
 
